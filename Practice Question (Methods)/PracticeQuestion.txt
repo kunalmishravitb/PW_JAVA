@@ -1,0 +1,11 @@
+Q5. State True and False:
+(1) A method may be called more than once from any other method.
+Ans. True
+
+(2) It is necessary for a method to return some value.
+Ans. False
+
+Q6. Explore:
+Can the same method name be used for different methods without any conflict?
+Ans. (i) In a class, Java permits the same method name to be used for different methods as long as their argument lists do not identical the same length and same types.
+(ii) The practice of defining more than one method in a class with same name is called method overloading.
